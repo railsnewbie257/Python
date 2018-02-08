@@ -9,3 +9,5 @@
 [Python Packaging User Guide](https://packaging.python.org/)
 
 [Python - Cheese Shop Tutorial](https://wiki.python.org/moin/CheeseShopTutorial)
+
+[Cracking Codes With Python](http://freecomputerbooks.com/Cracking-Codes-with-Python.html#downloadLinks)

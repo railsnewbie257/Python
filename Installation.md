@@ -8,3 +8,9 @@ Installs files into
 <pre>
 C:\Users\pihpj\AppData\Local\Programs\Python\Python36-32\<b>python.exe</b>
 </pre>
+
+<b>Python Tutorial</b>
+
+<pre>
+https://docs.python.org/3.6/tutorial/
+</pre>

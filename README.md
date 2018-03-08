@@ -13,3 +13,5 @@
 [Python - Cheese Shop Tutorial (deprecated)](https://wiki.python.org/moin/CheeseShopTutorial)
 
 [Cracking Codes With Python](http://freecomputerbooks.com/Cracking-Codes-with-Python.html#downloadLinks)
+
+[How to connect Pycharm to Teradata ](http://teradatasql.com/how-to-connect-pycharm-to-teradata/)

@@ -15,6 +15,17 @@ Install Tensorflow: https://www.tensorflow.org/install/install_windows
 
 [Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2](https://stackoverflow.com/questions/47068709/your-cpu-supports-instructions-that-this-tensorflow-binary-was-not-compiled-to-u)
 
+Dependency to save Keras models to disk   
+http://docs.h5py.org/en/latest/build.html   
+<pre>
+pip install h5py
+</pre>
+
+Install Keras
+
+<pre>
+pip install keras
+</pre>
 
 ======================================================================================
 

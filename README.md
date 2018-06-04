@@ -1,5 +1,7 @@
 # Python
 
+<b>SAS Server: sascompute.ad.oge.com</b>
+
 [Python Packaging User Guide](https://packaging.python.org/)
 
 [Teradata Python Module](https://developer.teradata.com/tools/reference/teradata-python-module)

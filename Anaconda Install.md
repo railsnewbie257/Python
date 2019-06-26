@@ -11,7 +11,7 @@ https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
 To <b>SETUP</b> an environment
 
 <pre>
-conda search "^python$"  <em>#cehck available versions of Python</em>
+conda search "^python$"  <em>#check available versions of Python</em>
 
 conda update conda
 
